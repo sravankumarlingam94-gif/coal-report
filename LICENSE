@@ -1,0 +1,44 @@
+APGENCO — Daily Coal Report Visual Dashboard
+Copyright (c) 2026 Lingam Sravankumar. All rights reserved.
+
+PROPRIETARY SOFTWARE — NOT OPEN SOURCE
+
+This repository and every file in it, including the dashboard application, its
+source code, layout, design, icons and accompanying documentation (together,
+"the Software"), are the exclusive property of the copyright holder.
+
+The Software is published here only so that authorised users may view the daily
+coal report at the official address operated by the copyright holder. Publishing
+it in a public repository is a technical requirement of that hosting and does
+not place the Software in the public domain, nor does it grant any licence
+beyond the permission stated below.
+
+PERMITTED
+  Viewing the dashboard in a web browser at the official address.
+  Printing or exporting a report for internal APGENCO use.
+
+NOT PERMITTED without prior written permission of the copyright holder
+  Copying, downloading or retaining the Software for reuse.
+  Hosting, re-hosting, deploying or serving it from any other address.
+  Modifying, adapting, translating or preparing derivative works.
+  Removing, obscuring or altering this notice, the in-application copyright
+    line, or the licence check built into the Software.
+  Selling, sub-licensing, renting or otherwise distributing the Software.
+  Reverse engineering, de-obfuscating or decompiling the Software.
+
+The Software verifies the address it is served from and will refuse to run
+elsewhere. Circumventing that check is a breach of this licence.
+
+NO WARRANTY
+The Software is provided "as is", without warranty of any kind, express or
+implied. The copyright holder is not liable for any claim, damage or other
+liability arising from the Software or its use. Figures shown are derived from
+the workbook supplied by the user and must be verified against the official
+record before being relied upon.
+
+THIRD-PARTY COMPONENTS
+The Software loads SheetJS (xlsx) and Chart.js from a public CDN at runtime.
+Those libraries remain under their own licences and are not covered by this
+notice.
+
+Permission requests and all other enquiries: sravankumar.lingam94@gmail.com
