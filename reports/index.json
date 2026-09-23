@@ -674,5 +674,82 @@
    ]
   },
   "by": "sravan"
+ },
+ "2026-09-22": {
+  "fileName": "Coal Report Dated 22.09.2026-1.xlsx",
+  "uploadedAt": "2026-09-23T06:15:55.884Z",
+  "updates": 1,
+  "sig": {
+   "sections": [
+    "apgenco daily coal report for",
+    "coal wagons tippling data",
+    "acb india talcher washary ltd",
+    "coal stocks mt",
+    "coal stocks",
+    "coal stocks split mt",
+    "coal consumption split mt",
+    "rsr apgenco discharge port stocks in mt",
+    "rakes loaded at mines on",
+    "total stock at discharge ports",
+    "vessel loading unloading details",
+    "ib valley washery",
+    "generation particulars mu",
+    "unloading status dr nttps",
+    "rakes in pipeline as on › dr nttps",
+    "rakes in pipeline as on › rtpp",
+    "month wise coal loading during the financial year",
+    "day wise coal loading during the month of september",
+    "rebooked rakes from",
+    "total number of rakes received at dr nttps from to",
+    "april"
+   ],
+   "disp": {
+    "apgenco daily coal report for": "APGENCO: Daily Coal Report for",
+    "coal wagons tippling data": "Coal Wagons Tippling Data",
+    "acb india talcher washary ltd": "ACB (India) Talcher Washary Ltd",
+    "coal stocks mt": "Coal Stocks (MT)",
+    "coal stocks": "Coal Stocks",
+    "coal stocks split mt": "Coal stocks split (MT)",
+    "coal consumption split mt": "Coal consumption split (MT)",
+    "rsr apgenco discharge port stocks in mt": "RSR(APGENCO- Discharge port stocks) in MT",
+    "rakes loaded at mines on": "Rakes loaded at mines on",
+    "total stock at discharge ports": "Total stock at Discharge ports",
+    "vessel loading unloading details": "Vessel loading/unloading details",
+    "ib valley washery": "Ib Valley washery",
+    "generation particulars mu": "Generation Particulars(MU)",
+    "unloading status dr nttps": "Unloading status Dr. NTTPS",
+    "rakes in pipeline as on › dr nttps": "Rakes in pipeline as on 23.09.2026@10.00 Hrs › Dr. NTTPS",
+    "rakes in pipeline as on › rtpp": "Rakes in pipeline as on 23.09.2026@10.00 Hrs › RTPP",
+    "month wise coal loading during the financial year": "MONTH WISE COAL LOADING DURING THE FINANCIAL YEAR 2025-2026",
+    "day wise coal loading during the month of september": "DAY -WISE COAL LOADING DURING THE MONTH OF SEPTEMBER - 2026",
+    "rebooked rakes from": "Rebooked Rakes from",
+    "total number of rakes received at dr nttps from to": "Total Number of Rakes Received at Dr NTTPS from 01-04-2026 to",
+    "april": "april"
+   },
+   "cols": {
+    "DRC(9)": 23,
+    "Loading": 31
+   },
+   "sources": [
+    "SCCL",
+    "TLHR",
+    "IB",
+    "Washed coal (ACB SSMT)",
+    "Washed coal (from IB)",
+    "ECL Raw Coal",
+    "Kakinada PORT",
+    "SCCL",
+    "TLHR",
+    "IB",
+    "Washed coal (from IB)",
+    "Krishnapatnam",
+    "ENNORE PORT",
+    "MCL (Paradip)",
+    "MCL (MPQP)",
+    "MCL (BPQP)",
+    "MCL (BP SC for NTTPS)"
+   ]
+  },
+  "by": "sravan"
  }
 }
