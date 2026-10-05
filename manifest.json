@@ -1,0 +1,19 @@
+{
+  "name": "APGENCO Daily Coal Report",
+  "short_name": "Coal Report",
+  "description": "Daily coal report dashboard — stocks, generation, rakes, pipeline, ports and washery.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#05090F",
+  "theme_color": "#05090F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Upload today's report", "url": "./#admin" }
+  ]
+}
